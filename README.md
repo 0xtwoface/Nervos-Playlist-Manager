@@ -1,4 +1,4 @@
-# Blockchain workshop
+# Playlist Manager DApp
 
 Start UI:
 
